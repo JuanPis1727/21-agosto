@@ -1,0 +1,15 @@
+C:\Users\salak301\21-agosto\cns_pruebaAPP\bin\Debug\net8.0\cns_pruebaAPP.exe
+C:\Users\salak301\21-agosto\cns_pruebaAPP\bin\Debug\net8.0\cns_pruebaAPP.deps.json
+C:\Users\salak301\21-agosto\cns_pruebaAPP\bin\Debug\net8.0\cns_pruebaAPP.runtimeconfig.json
+C:\Users\salak301\21-agosto\cns_pruebaAPP\bin\Debug\net8.0\cns_pruebaAPP.dll
+C:\Users\salak301\21-agosto\cns_pruebaAPP\bin\Debug\net8.0\cns_pruebaAPP.pdb
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.AssemblyInfoInputs.cache
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.AssemblyInfo.cs
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.csproj.CoreCompileInputs.cache
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.sourcelink.json
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.dll
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\refint\cns_pruebaAPP.dll
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.pdb
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\cns_pruebaAPP.genruntimeconfig.cache
+C:\Users\salak301\21-agosto\cns_pruebaAPP\obj\Debug\net8.0\ref\cns_pruebaAPP.dll
